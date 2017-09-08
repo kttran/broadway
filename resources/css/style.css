@@ -30,7 +30,7 @@ p {
 
 .titlebox {
   display: block;
-  background-image: url("file:///C:/Users/ktran/Documents/projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url('../images/the-flatiron-building.png');
 }
 
 .pictbar {
@@ -45,9 +45,4 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
-}
-
-smfooter {
-  color: white;
-  font-size: 11px;
 }
